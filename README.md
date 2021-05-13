@@ -1,7 +1,6 @@
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 AS.410.635.81.SP21  Bioinformatics: Tools for Genome Analysis
 # Bioinformatics Portfolio
-<br>
 Princy Francis <br>
 📧 pfranc10@jh.edu <br>
 

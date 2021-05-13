@@ -20,8 +20,7 @@ AS.410.635.81.SP21  Bioinformatics: Tools for Genome Analysis
 **Bioinformatics analysis of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)** <br><br>
 
 ### 🧬   PART-V:	
-**GitHub repositories highlighting bioinformatics skills from additional courses/projects** <br>
-<br>
+**GitHub repositories highlighting bioinformatics skills from additional courses/projects**
 
 ### JAVA
  EN.605.201.85.SP18 Introduction to Programming Using Java

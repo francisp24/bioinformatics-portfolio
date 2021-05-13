@@ -21,9 +21,9 @@ AS.410.635.81.SP21  Bioinformatics: Tools for Genome Analysis
 
 ### 🧬   PART-V:	
 **GitHub repositories highlighting bioinformatics skills from additional courses/projects** <br>
+<br>
 
 ### JAVA
-
  EN.605.201.85.SP18 Introduction to Programming Using Java
 - [Small Java programs](https://github.com/francisp24/jhu-java)
 - [Pacman program](https://github.com/francisp24/jhu-java-mini-project-1)
@@ -42,6 +42,22 @@ EN.605.620.81.FA20 Algorithms for Bioinformatics
 - [Strassen's matrix multiplication](https://github.com/francisp24/jhu-algos-for-bioinfo-lab1)
 - [Hashing](https://github.com/francisp24/jhu-algos-for-bioinfo-lab2)
 - [Dynamic programming - LCS](https://github.com/francisp24/jhu-algos-for-bioinfo-lab3)
+ <br>
+
+### UNIX
+AS.410.634.71.FA18 Practical Computer Concepts for Bioinformatics
+- [Basic UNIX exercises](https://github.com/francisp24/jhu-practical-computer-concepts-bioinfo-basic)  <br>
+
+AS.410.712.81.SP20 Advanced Practical Computer Concepts for Bioinformatics
+- [Advanced UNIX exercises](https://github.com/francisp24/jhu-practical-computer-concepts-bioinfo-advanced)
+ <br>
+
+### SQL
+AS.410.634.71.FA18 Practical Computer Concepts for Bioinformatics
+- [Basic MySQL exercises](https://github.com/francisp24/jhu-practical-computer-concepts-bioinfo-basic) <br>
+
+AS.410.712.81.SP20 Advanced Practical Computer Concepts for Bioinformatics
+- [Advanced MySQL exercises](https://github.com/francisp24/jhu-practical-computer-concepts-bioinfo-advanced)
  <br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------

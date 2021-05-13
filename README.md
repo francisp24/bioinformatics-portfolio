@@ -89,23 +89,30 @@ AS.410.713.81.SP19 Advanced Genomics and Genetics Analyses
 AS.410.635.81.SP21 Bioinformatics: Tools for Genome Analysis
 - [R code](https://github.com/francisp24/jhu-genome-analysis) 
  <br>
-
-
+ 
 ### NGS Analysis
 AS.410.666.83.SP19 Next Generation DNA Sequencing and Analysis
-- [R code](https://github.com/francisp24/jhu-genome-analysis) 
+- [xxx](https://github.com/francisp24/jhu-ngs-analysis)
  <br>
 
-### micro-RNA-seq
+### Bulk RNA Sequencing Analysis
+- [RNA-seq data analysis](https://github.com/francisp24/bulk-RNA-seq)
  <br>
 
-### bulk-RNA-seq
+### microRNA Sequencing Analysis
+- [miRNA-seq data analysis](https://github.com/francisp24/microRNA-seq)
  <br>
 
-### singlecell-RNA-seq
+### Single-Cell RNA Sequencing Analysis
+- [scRNA-seq data analysis](https://github.com/francisp24/single-cell-RNA-seq)
  <br>
 
-### Telseq-telomere-length-analysis
+### Telomere Length Analysis from WGS
+- [TelSeq Analysis](https://github.com/francisp24/telseq-telomere-length-analysis)
+ <br>
+
+### Protein Structure and Function Analysis 
+- [POT1 protein analysis](https://github.com/francisp24/POT1-protein-structure-function-analysis)
  <br>
 
 

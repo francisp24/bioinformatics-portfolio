@@ -13,7 +13,7 @@ Digital resume on GitHub focusing on bioinformatics experience <br>
 Reading summary of bioinformatics topics covered in the Tools for Genome Analysis course <br>
 ### 🧬   PART III:	
 Applications of some bioinformatics tools covered in the Tools for Genome Analysis course <br>
-### 🧬   PART-IV:	
+### 🧬   [PART-IV](https://github.com/francisp24/covid19-project/blob/main/📝PART-IV_Portfolio_PrincyFrancis.pdf):	
 Bioinformatics analysis of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) <br>
 ### 🧬   PART-V:	
 GitHub repositories highlighting bioinformatics skills from additional courses/projects <br>

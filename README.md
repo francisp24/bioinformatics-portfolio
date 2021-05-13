@@ -59,4 +59,54 @@ AS.410.712.81.SP20 Advanced Practical Computer Concepts for Bioinformatics
 - [Advanced MySQL exercises](https://github.com/francisp24/jhu-practical-computer-concepts-bioinfo-advanced)
  <br>
 
+
+### Python
+AS.410.634.71.FA18 Practical Computer Concepts for Bioinformatics
+- [Basic Python exercises](https://github.com/francisp24/jhu-practical-computer-concepts-bioinfo-basic)
+
+AS.410.712.81.SP20 Advanced Practical Computer Concepts for Bioinformatics
+- [Advanced Python exercises](https://github.com/francisp24/jhu-practical-computer-concepts-bioinfo-advanced)
+ <br>
+
+### CGI, Perl DBI, MySQL, HTML5, CSS3 and Javascript/JQuery:
+AS.410.712.81.SP20 Advanced Practical Computer Concepts for Bioinformatics
+- [My miRNA Database](https://github.com/francisp24/jhu-practical-computer-concepts-bioinfo-advanced)
+ <br>
+
+### R Programming
+AS.410.633.71.SP18 Introduction to Bioinformatics
+- [R code](https://github.com/francisp24/jhu-intro-to-bioinfo)
+
+AS.410.645.82.SU20 Biostatistics
+- [R code](https://github.com/francisp24/jhu-biostats)
+
+ AS.410.671.82.FA18 Gene Expression Data Analysis and Visualization
+- [R code](https://github.com/francisp24/jhu-gene-expression-analysis-visualization)
+
+AS.410.713.81.SP19 Advanced Genomics and Genetics Analyses
+- [R code](https://github.com/francisp24/jhu-advanced-genomics-and-genetics-analyses)
+
+AS.410.635.81.SP21 Bioinformatics: Tools for Genome Analysis
+- [R code](https://github.com/francisp24/jhu-genome-analysis) 
+ <br>
+
+
+### NGS Analysis
+AS.410.666.83.SP19 Next Generation DNA Sequencing and Analysis
+- [R code](https://github.com/francisp24/jhu-genome-analysis) 
+ <br>
+
+### micro-RNA-seq
+ <br>
+
+### bulk-RNA-seq
+ <br>
+
+### singlecell-RNA-seq
+ <br>
+
+### Telseq-telomere-length-analysis
+ <br>
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------

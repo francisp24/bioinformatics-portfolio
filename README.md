@@ -115,5 +115,8 @@ AS.410.666.83.SP19 Next Generation DNA Sequencing and Analysis
 - [POT1 protein analysis](https://github.com/francisp24/POT1-protein-structure-function-analysis)
  <br>
 
+### Microarray Analysis
+- [POT1 protein analysis](https://github.com/francisp24/jhu-gene-expression-analysis-visualization)
+ <br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------

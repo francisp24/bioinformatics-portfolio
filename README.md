@@ -7,7 +7,7 @@ AS.410.635.81.SP21  Bioinformatics: Tools for Genome Analysis
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-### 🧬   PART-I:	
+### 🧬   [PART-I](https://francisp24.github.io/digital-cv/):	
 Digital resume on GitHub focusing on bioinformatics experience <br>
 ### 🧬   [PART-II](https://francisp24.github.io/jhu-genome-analysis-webpage/):	
 Reading summary of bioinformatics topics covered in the Tools for Genome Analysis course <br>

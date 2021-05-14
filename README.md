@@ -22,58 +22,75 @@ AS.410.635.81.SP21  Bioinformatics: Tools for Genome Analysis
 ### 🧬   PART-V:	
 **GitHub repositories highlighting bioinformatics skills from additional courses/projects**
 
-### JAVA
+### 🔹 NGS Analysis
+AS.410.666.83.SP19 Next Generation DNA Sequencing and Analysis
+- [SRA Toolkit](https://github.com/francisp24/jhu-ngs-analysis)  <br>
+
+### 🔹 Bulk RNA Sequencing Analysis
+- [RNA-seq data analysis](https://github.com/francisp24/bulk-RNA-seq)  <br>
+
+### 🔹 microRNA Sequencing Analysis
+- [miRNA-seq data analysis](https://github.com/francisp24/microRNA-seq)  <br>
+
+### 🔹 Single-Cell RNA Sequencing Analysis
+- [scRNA-seq data analysis](https://github.com/francisp24/single-cell-RNA-seq)  <br>
+
+### 🔹 ChIP-seq Analysis
+- [MACS Analysis](https://github.com/francisp24/jhu-advanced-genomics-and-genetics-analyses/tree/main/R-Code)  <br>
+
+### 🔹 Telomere Length Analysis from WGS
+- [TelSeq Analysis](https://github.com/francisp24/telseq-telomere-length-analysis)  <br>
+
+### 🔹 Protein Structure and Function Analysis 
+- [POT1 protein analysis](https://github.com/francisp24/POT1-protein-structure-function-analysis)  <br>
+
+### 🔹 Microarray Analysis
+- [R Code](https://github.com/francisp24/jhu-gene-expression-analysis-visualization/tree/main/R-code)  <br>
+
+### 🔹 JAVA
  EN.605.201.85.SP18 Introduction to Programming Using Java
 - [Small Java programs](https://github.com/francisp24/jhu-java)
 - [Pacman program](https://github.com/francisp24/jhu-java-mini-project-1)
 - [Vending machine simulator](https://github.com/francisp24/jhu-java-mini-project-2)
 - [Song database](https://github.com/francisp24/jhu-java-mini-project-3)
-<br>
  
 EN.605.202.81.SU18 Data Structures
 - [Stacks and regular expression](https://github.com/francisp24/jhu-data-structures-lab1)
 - [Matrix determinant calculator - array implementation](https://github.com/francisp24/jhu-data-structures-lab2)
 - [Matrix determinant calculator - linked list implementation](https://github.com/francisp24/jhu-data-structures-lab3)
 - [Comparison of various sort algorithms](https://github.com/francisp24/jhu-data-structures-lab4)
-<br>
 
 EN.605.620.81.FA20 Algorithms for Bioinformatics
 - [Strassen's matrix multiplication](https://github.com/francisp24/jhu-algos-for-bioinfo-lab1)
 - [Hashing](https://github.com/francisp24/jhu-algos-for-bioinfo-lab2)
 - [Dynamic programming - LCS](https://github.com/francisp24/jhu-algos-for-bioinfo-lab3)
- <br>
 
-### UNIX
+### 🔹 UNIX
 AS.410.634.71.FA18 Practical Computer Concepts for Bioinformatics
-- [Basic UNIX exercises](https://github.com/francisp24/jhu-practical-computer-concepts-bioinfo-basic)  <br>
+- [Basic UNIX exercises](https://github.com/francisp24/jhu-practical-computer-concepts-bioinfo-basic)
 
 AS.410.712.81.SP20 Advanced Practical Computer Concepts for Bioinformatics
 - [Advanced UNIX exercises](https://github.com/francisp24/jhu-practical-computer-concepts-bioinfo-advanced)
- <br>
 
-### SQL
+### 🔹 SQL
 AS.410.634.71.FA18 Practical Computer Concepts for Bioinformatics
-- [Basic MySQL exercises](https://github.com/francisp24/jhu-practical-computer-concepts-bioinfo-basic) <br>
+- [Basic MySQL exercises](https://github.com/francisp24/jhu-practical-computer-concepts-bioinfo-basic)
 
 AS.410.712.81.SP20 Advanced Practical Computer Concepts for Bioinformatics
 - [Advanced MySQL exercises](https://github.com/francisp24/jhu-practical-computer-concepts-bioinfo-advanced)
- <br>
 
-
-### Python
+### 🔹 Python
 AS.410.634.71.FA18 Practical Computer Concepts for Bioinformatics
 - [Basic Python exercises](https://github.com/francisp24/jhu-practical-computer-concepts-bioinfo-basic)
 
 AS.410.712.81.SP20 Advanced Practical Computer Concepts for Bioinformatics
 - [Advanced Python exercises](https://github.com/francisp24/jhu-practical-computer-concepts-bioinfo-advanced)
- <br>
 
-### CGI, Perl DBI, MySQL, HTML5, CSS3 and Javascript/JQuery:
+### 🔹 CGI, Perl DBI, MySQL, HTML5, CSS3 and Javascript/JQuery:
 AS.410.712.81.SP20 Advanced Practical Computer Concepts for Bioinformatics
 - [My miRNA Database](https://github.com/francisp24/jhu-practical-computer-concepts-bioinfo-advanced)
- <br>
 
-### R Programming
+### 🔹 R Programming
 AS.410.633.71.SP18 Introduction to Bioinformatics
 - [R code](https://github.com/francisp24/jhu-intro-to-bioinfo)
 
@@ -88,39 +105,5 @@ AS.410.713.81.SP19 Advanced Genomics and Genetics Analyses
 
 AS.410.635.81.SP21 Bioinformatics: Tools for Genome Analysis
 - [R code](https://github.com/francisp24/jhu-genome-analysis) 
- <br>
- 
-### NGS Analysis
-AS.410.666.83.SP19 Next Generation DNA Sequencing and Analysis
-- [xxx](https://github.com/francisp24/jhu-ngs-analysis)
- <br>
-
-### Bulk RNA Sequencing Analysis
-- [RNA-seq data analysis](https://github.com/francisp24/bulk-RNA-seq)
- <br>
-
-### microRNA Sequencing Analysis
-- [miRNA-seq data analysis](https://github.com/francisp24/microRNA-seq)
- <br>
-
-### Single-Cell RNA Sequencing Analysis
-- [scRNA-seq data analysis](https://github.com/francisp24/single-cell-RNA-seq)
- <br>
-
-### ChIP-seq Analysis
-- [MACS Analysis](https://github.com/francisp24/jhu-advanced-genomics-and-genetics-analyses/tree/main/R-Code)
- <br>
-
-### Telomere Length Analysis from WGS
-- [TelSeq Analysis](https://github.com/francisp24/telseq-telomere-length-analysis)
- <br>
-
-### Protein Structure and Function Analysis 
-- [POT1 protein analysis](https://github.com/francisp24/POT1-protein-structure-function-analysis)
- <br>
-
-### Microarray Analysis
-- [R Code](https://github.com/francisp24/jhu-gene-expression-analysis-visualization/tree/main/R-code)
- <br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -116,7 +116,7 @@ AS.410.666.83.SP19 Next Generation DNA Sequencing and Analysis
  <br>
 
 ### Microarray Analysis
-- [POT1 protein analysis](https://github.com/francisp24/jhu-gene-expression-analysis-visualization)
+- [R Code](https://github.com/francisp24/jhu-gene-expression-analysis-visualization/tree/main/R-code)
  <br>
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------

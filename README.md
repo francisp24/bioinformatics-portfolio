@@ -7,19 +7,19 @@ AS.410.635.81.SP21  Bioinformatics: Tools for Genome Analysis
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-### 🧬   [PART-I](https://francisp24.github.io/digital-cv/):	
+## 🧬   [PART-I](https://francisp24.github.io/digital-cv/):	
 **Digital resume on GitHub focusing on bioinformatics experience** <br><br>
 
-### 🧬   [PART-II](https://francisp24.github.io/jhu-genome-analysis-webpage/):	
+## 🧬   [PART-II](https://francisp24.github.io/jhu-genome-analysis-webpage/):	
 **Reading summary of bioinformatics topics covered in the _Tools for Genome Analysis_ course** <br><br>
 
-### 🧬   [PART III](https://github.com/francisp24/jhu-genome-analysis-webpage/blob/main/📝PART-III_Portfolio_PrincyFrancis.pdf):	
+## 🧬   [PART III](https://github.com/francisp24/jhu-genome-analysis-webpage/blob/main/📝PART-III_Portfolio_PrincyFrancis.pdf):	
 **Applications of some bioinformatics tools covered in the _Tools for Genome Analysis_ course** <br><br>
 
-### 🧬   [PART-IV](https://github.com/francisp24/covid19-project/blob/main/📝PART-IV_Portfolio_PrincyFrancis.pdf):	
+## 🧬   [PART-IV](https://github.com/francisp24/covid19-project/blob/main/📝PART-IV_Portfolio_PrincyFrancis.pdf):	
 **Bioinformatics analysis of the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)** <br><br>
 
-### 🧬   PART-V:	
+## 🧬   PART-V:	
 **GitHub repositories highlighting bioinformatics skills from additional courses/projects**
 
 ### 🔹 NGS Analysis

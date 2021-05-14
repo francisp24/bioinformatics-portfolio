@@ -107,4 +107,7 @@ AS.410.713.81.SP19 Advanced Genomics and Genetics Analyses
 AS.410.635.81.SP21 Bioinformatics: Tools for Genome Analysis
 - [R code](https://github.com/francisp24/jhu-genome-analysis) 
 
+### 🔹 BASH
+- [BASH scripts](https://github.com/francisp24/bash-scripts)
+
 ----------------------------------------------------------------------------------------------------------------------------------------------------------

@@ -107,6 +107,10 @@ AS.410.666.83.SP19 Next Generation DNA Sequencing and Analysis
 - [scRNA-seq data analysis](https://github.com/francisp24/single-cell-RNA-seq)
  <br>
 
+### ChIP-seq Analysis
+- [MACS Analysis](https://github.com/francisp24/jhu-advanced-genomics-and-genetics-analyses/tree/main/R-Code)
+ <br>
+
 ### Telomere Length Analysis from WGS
 - [TelSeq Analysis](https://github.com/francisp24/telseq-telomere-length-analysis)
  <br>

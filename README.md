@@ -24,7 +24,8 @@ AS.410.635.81.SP21  Bioinformatics: Tools for Genome Analysis
 
 ### 🔹 NGS Analysis
 AS.410.666.83.SP19 Next Generation DNA Sequencing and Analysis
-- [SRA Toolkit](https://github.com/francisp24/jhu-ngs-analysis)  <br>
+- [SRA Toolkit, FASTQC, Trimmomatic, SPADES etc.](https://github.com/francisp24/jhu-ngs-analysis/blob/main/PDF_410.666_FinalExam_PracticalQs_sratoolkit.pdf) 
+- [VELVET, PROKKA, BWA, SAMtools, SNPeff etc.](https://github.com/francisp24/jhu-ngs-analysis) 
 
 ### 🔹 Bulk RNA Sequencing Analysis
 - [RNA-seq data analysis](https://github.com/francisp24/bulk-RNA-seq)  <br>
